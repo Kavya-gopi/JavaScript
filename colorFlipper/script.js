@@ -20,6 +20,4 @@ function flipper(){
     console.log(result);
     color.innerHTML=result;
     document.querySelector('body').style.backgroundColor=result;
-
-    
 }
