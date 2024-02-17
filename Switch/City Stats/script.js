@@ -1,3 +1,4 @@
+// city stats using switch
 const button=document.querySelector('button');
 button.addEventListener('click',displayStats);
 let resultdiv=document.createElement('div');
