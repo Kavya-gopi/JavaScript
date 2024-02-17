@@ -1,3 +1,4 @@
+// Word count function
 const inp=document.getElementById("inputvalue");
 const result=document.getElementById("result");
 const calculate=()=>{
