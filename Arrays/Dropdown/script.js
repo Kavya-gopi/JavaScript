@@ -1,5 +1,5 @@
 let arr=['ECE','CSE','IT','EEE','MECH','CIVIL']
-//display the array Elements to a dropDown in HTML
+//display the array Elements to a dropDown in HTML.
 
 let select=document.createElement('select');
 let main=document.getElementById('wrap').appendChild(select);

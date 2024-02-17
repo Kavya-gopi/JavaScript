@@ -4,9 +4,9 @@ console.log(cities[1]);
 console.log(arr.length);
 
 //mix of int and string
-
 let arr1=[1,2,3,"Chennai",[1,33]];
 console.log(arr1);
+
 //2D Array
 let matrix=[[1,2,3],[4,5,6],[7,8,9]];
 console.log(matrix);
