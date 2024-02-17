@@ -1,3 +1,4 @@
+// celcius to fahrenheit
 function convert(){
     const celcius=Number(document.getElementById("inp").value);
     const fahrenheit=(celcius*1.8)+32;
