@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(242, 242, 147);
+}
+
+h2{
+    padding-top: 20px;
+    text-align: center;
+}
+
+#wrapper{
+    
+    margin:40px auto;
+    margin-top:200px;
+    text-align: center;
+    background-color: gray;
+    height:250px;
+    width:400px;
+    
+    
+}
+input{
+    height:20px;
+    border-color: black;
+}
+
+button{
+    margin: 30px;
+    height:30px;
+    background-color:rgb(242, 242, 147) ;
+    border-radius: 4px;
+    border-style: double;
+}
+
+#result{
+    padding:10px;
+    color:black;
+    font-size: 20px;
+    font-weight: bold;
+}

@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine;
+}
+
+#wrap{
+    text-align: center;
+    margin:300px auto;
+}
+
+select{
+    width:300px;
+    height:30px;
+    padding:5px 10px;
+    border-radius: 8px;
+    border:3px solid rgb(229, 36, 213);
+    font-weight: bold;
+}
+
+option{
+    font-weight:bold;
+    background-color: rgb(166, 233, 233);
+    
+    
+}
+

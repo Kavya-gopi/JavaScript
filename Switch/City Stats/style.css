@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(121, 95, 237);
+
+    
+    
+}
+
+h2{
+    padding-top: 20px;
+    text-align: center;
+}
+
+#container{
+    
+    margin:40px auto;
+    margin-top:200px;
+    text-align: center;
+    background-color: rgb(244, 72, 72);
+    height:350px;
+    width:400px;
+    
+    
+}
+select{
+    height:30px;
+    width:300px;
+    border-color: black;
+}
+
+option{
+    color: rgb(17, 16, 17);
+    background-color:rgb(223, 223, 239);
+}
+button{
+    height:30px;
+    width:fit-content;
+    background-color:rgb(87, 119, 246) ;
+    border-radius: 4px;
+    border-style: double;
+}
+
+#result{
+    
+    padding:30px;
+    color:black;
+    font-size: 20px;
+    font-weight: bold;
+}
