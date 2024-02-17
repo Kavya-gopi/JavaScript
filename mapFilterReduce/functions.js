@@ -1,3 +1,4 @@
+// map/filter/Reduce/closure function/set and Map
 //map-executes callback function for each array
 //element and returns new array
 let arr=[1,2,3,4,5,6,7,8,9,10];
