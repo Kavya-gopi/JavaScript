@@ -34,7 +34,4 @@ function calculate(){
         }
         let text=`The value is ${res}`;
         document.getElementById('result').innerHTML=text;
-    
-    
-
 }
