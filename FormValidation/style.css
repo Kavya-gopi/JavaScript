@@ -1,0 +1,75 @@
+body{
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    background-attachment: fixed;
+}
+
+#form{
+    background-color: whitesmoke;
+    margin:8vh auto 0 auto;
+    width:400px;
+    border-radius: 10px;
+    padding:30px;
+}
+
+h1{
+    text-align: center;
+    color:rgba(253,187,45,1);
+    font-family: cursive;
+    
+}
+.input-field label{
+    font-family: cursive;
+    font-size: 1.1em;
+}
+.ast{
+    color:red;
+    margin:3px;
+}
+
+#btn{
+    width:100%;
+    background-color:rgb(253, 187, 1);
+    border: 1px solid rgb(34,193,195);
+    border-radius: 6px;
+    color:black;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: cursive;
+    padding:8px 0;
+    margin:20px 0;
+}
+
+.input-field{
+    display:flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+
+.input-field input{
+    margin-top:5px;
+    padding:10px;
+    border-radius:5px;
+    font-size: 20px;
+    border:1px solid rgb(34,193,195);
+}
+.input-field input:focus{
+    outline:0;
+}
+
+.input-field .error{
+    color:rgb(239, 68, 68);
+    font-size:16px;
+    margin-top: 5px;
+    font-family: cursive;
+    font-weight: 600;
+}
+
+.input-field.success input{
+    border-color: rgb(65, 212, 65);
+}
+
+.input-field.error input{
+    border-color:rgb(239, 68, 68);
+    
+}
